@@ -1,6 +1,6 @@
 Marul Žaknić ima x pobjeda i y poraza!
-Luka Sinčić ima z pobjeda i n poraza!
+Luka Sičić ima z pobjeda i n poraza!
 
 X . .
-. . .
+. O .
 . . .
